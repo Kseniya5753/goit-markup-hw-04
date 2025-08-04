@@ -285,12 +285,18 @@ img {
     color: #2e2f42;
 }
 
-.team-list {
+.ggggg {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+/* .team-list {
     display: flex;
     align-items: center;
     
     gap: 24px;
-    }
+    } */
 
 .team-list-item {
     letter-spacing: 0.02em;
