@@ -486,7 +486,8 @@ padding: 120px 0;
     max-width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
-   
+    gap: 16px
+
 }
 
 .footer-text {
@@ -496,14 +497,16 @@ padding: 120px 0;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
-    margin-right: 120px;
+    /* margin-right: 120px; */
+    align-items: baseline;
+margin-right: 120px;
 }
 
 
-.hhh {
+/* .hhh {
  
 align-items: baseline,
-}
+} */
 
 
 .team-text-icons{
