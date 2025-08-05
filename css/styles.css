@@ -490,9 +490,10 @@ padding: 120px 0;
     max-width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
-    gap: 16px
-    
-}
+    gap: 16px;
+    align-items: baseline;
+    margin-right: 120px;
+   }
 
 .footer-text {
     max-width: 264px;
@@ -501,8 +502,8 @@ padding: 120px 0;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;   
-    align-items: baseline;
-    margin-right: 120px;
+    /* align-items: baseline;
+    margin-right: 120px; */
 }
 
 
