@@ -473,6 +473,7 @@ padding: 120px 0;
 
 
 /* footer */
+
 .page-footer {
     
     padding: 100px 0;
@@ -505,10 +506,8 @@ padding: 120px 0;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #f4f4fd;   
-    /* align-items: baseline;
-    margin-right: 120px; */
-}
+    color: #f4f4fd; 
+   }
 
 
 .team-text-icons{
