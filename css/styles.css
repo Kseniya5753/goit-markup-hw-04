@@ -313,8 +313,7 @@ img {
     background-color: #4D5AE5;
     }
 
-.team-icons-card:hover,
-.team-icons-card:focus {
+.team-icons-card:hover {
     background-color: #404bbf;
 }
 
@@ -437,7 +436,7 @@ img {
     border-left: 1px solid #e7e9fc;
     border-right: 1px solid #e7e9fc;
     padding: 32px 16px;
-    transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1)
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); 
     }
 
 .pli:hover {
@@ -485,7 +484,7 @@ img {
     align-items: baseline;
     
    }
-
+   
 .footer-text {
     max-width: 264px;
     font-weight: 400;
@@ -495,6 +494,9 @@ img {
     color: #f4f4fd; 
    }
 
+.icons-sotial {
+    gap: 16px;
+   }
 
 .team-text-icons{
     margin-bottom: 16px;
@@ -516,8 +518,8 @@ img {
     background-color: #4D5AE5;
 }
 
-.ticg:hover,
-.ticg:focus {
-    background-color: #31D0AA;
+.ticg:hover {
+    background-color: #31d0aa;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
